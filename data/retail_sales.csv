@@ -1,0 +1,6 @@
+transaction_id,product,category,unit_price,quantity
+1001,Laptop,Electronics,850,2
+1002,Mouse,Accessories,25,5
+1003,Keyboard,Accessories,75,3
+1004,Monitor,Electronics,250,2
+1005,Laptop,Electronics,850,1
